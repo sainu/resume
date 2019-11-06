@@ -1,4 +1,4 @@
-# 職務経歴書
+# [WIP] 職務経歴書
 
 <img src="https://github.com/sainuio/resume/blob/master/img-profile2.jpg" width="128">
 
