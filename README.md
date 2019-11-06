@@ -56,3 +56,14 @@ AMS（バージョン0.10）のコードを追ってみると、各DSLは名前�
 * デザイナーとプログラマー間でUIコンポーネントの粒度に対する認識を合わせるために[Storybook](https://storybook.js.org/)を導入しました。これにより、データロジックが関わらないUIコンポーネントのスタイル部分をデザイナーでもコミットができる体制になり、コミュニケーションコストを大幅に削ることができました。
 * Nuxt.jsをGCPにビルド&デプロイするワークフローを[CircleCIのWorkflow](https://circleci.com/docs/ja/2.0/workflows/)で作成し、実際の開発者以外でもデプロイ&ロールバックができる体制を作りました。
 * 既存のNuxt.jsはES6で書かれた部分が多く、私が改修する時にはVue.jsがTypeScriptを公式サポートした後でしたので、作り直しのタイミングで新しい技術構成でやるチャンスだと思い、Nuxt.jsをTypeScriptで書き直しました。
+
+# 活動
+
+## OSS
+
+* [Modify method name in comment #1471 - yabwe/medium-editor](https://github.com/yabwe/medium-editor/pull/1471)
+* [Update npm and grunt-autoprefixer #473 - orthes/medium-editor-insert-plugin](https://github.com/orthes/medium-editor-insert-plugin/pull/473)
+* [Modify for missing markdown symbol #1200 - lynndylanhurley/devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth/pull/1200)
+* [Optimized for the latest version of npm packages #5 - Teddy-Zhu/vue-waves](https://github.com/Teddy-Zhu/vue-waves/pull/5)
+* [show initial date #3 - tjohnn/vuejs-datetimepicker](https://github.com/tjohnn/vuejs-datetimepicker/pull/3)
+* [add /app/jobs #12 - basyura/unite-rails](https://github.com/basyura/unite-rails/pull/12)
