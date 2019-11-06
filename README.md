@@ -2,6 +2,8 @@
 
 <img src="https://github.com/sainuio/resume/blob/master/img-profile2.jpg" width="128">
 
+**"夢中は努力に勝る / 好きこそものの上手なれ"**
+
 # 基本情報
 
 Key | Value
