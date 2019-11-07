@@ -242,6 +242,7 @@ Wordpressを使ったWebサイト制作の受託開発
   * Vue.js（2系）：2017年9月〜現在
   * AngularJS（1系）：2016年6月〜2017年1月
   * Chrome extension：2017年2月〜2017年3月
+  * Wordpress：2016年12月〜2017年1月
 * DB
   * MySQL（5.6 / 5.7）：2015年7月〜現在
   * Redis：2017年8月〜現在
