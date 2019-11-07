@@ -231,6 +231,24 @@ Wordpressを使ったWebサイト制作の受託開発
 
 * Wordpress
 
+## 株式会社NVT（2016年6月〜2017年1月）
+
+### 自社サービスTerminalQの開発（2016年6月〜2017年1月）
+
+#### 概要
+中小製造業の属人的な見積もりを解決するソフトの開発
+
+#### 業務内容
+
+* AngularJS1系を用いたSPAの開発
+* Ruby on Railsを用いたAPIサーバーの開発
+
+#### 技術
+
+* AngularJS1系
+* Ruby on Rails4系
+* MySQL5.6
+
 # スキル
 
 * 言語
