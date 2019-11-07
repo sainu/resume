@@ -225,8 +225,16 @@ Google Drive内のファイルを読み取り、最適なフォルダ構成を�
   * Nginx：2017年8月〜現在
 * DevOps
   * ansible：2019年4月〜2019年5月
-* サーバー
-  * AWS：2016年2月〜現在
+* AWS：2016年2月〜現在
+  * EC2（オンデマンド・スポットインスタンス）
+  * S3
+  * ALB
+  * オートスケーリング
+  * SES
+  * CloudWatch
+  * RDS（MySQL5.6,5.7）
+  * Elasticache（Redis）
+  * Elasticsearch Service
 
 # 活動
 
