@@ -13,7 +13,7 @@ Job | Webアプリケーションデベロッパー
 Github | [@sainuio](https://github.com/sainuio)
 Twitter | [@sainuio](https://twitter.com/sainuio)
 Qiita | [@sainu](https://qiita.com/sainu)
-ブログ | [さいぬのtechブログ](http://sainu.hatenablog.jp/)
+ブログ | [さいぬのtechブログ](http://sainu.hatenablGog.jp/)
 
 # 職務経歴
 
@@ -56,6 +56,24 @@ AMS（バージョン0.10）のコードを追ってみると、各DSLは名前�
 * デザイナーとプログラマー間でUIコンポーネントの粒度に対する認識を合わせるために[Storybook](https://storybook.js.org/)を導入しました。これにより、データロジックが関わらないUIコンポーネントのスタイル部分をデザイナーでもコミットができる体制になり、コミュニケーションコストを大幅に削ることができました。
 * Nuxt.jsをGCPにビルド&デプロイするワークフローを[CircleCIのWorkflow](https://circleci.com/docs/ja/2.0/workflows/)で作成し、実際の開発者以外でもデプロイ&ロールバックができる体制を作りました。
 * 既存のNuxt.jsはES6で書かれた部分が多く、私が改修する時にはVue.jsがTypeScriptを公式サポートした後でしたので、作り直しのタイミングで新しい技術構成でやるチャンスだと思い、Nuxt.jsをTypeScriptで書き直しました。
+
+# スキル
+
+* 言語
+  * Ruby（2.1系 / 2.2系 / 2.5系 / 2.6系）：2015年7月〜現在
+  * JavaScript（ES5 / ES2015 / ES2016 / ES2017）：約2015年7月〜現在
+  * Node.js（6.x系 / 8.x系 / 10.x系）：2016年2月〜現在
+* フレームワーク
+  * Ruby on Rails（4系 / 5系）：2015年7月〜現在
+  * Vue.js（2系）：2017年9月〜現在
+  * AngularJS（1系）：2016年6月〜2017年1月
+* DB
+  * MySQL（5.6 / 5.7）：2015年7月〜現在
+  * Redis：2017年8月〜現在
+* ミドルウェア
+  * Nginx：2017年8月〜現在
+* サーバー
+  * AWS：2016年2月〜現在
 
 # 活動
 
