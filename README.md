@@ -33,8 +33,7 @@ web、ios、androidから利用するAPIのレスポンス速度とサーバー�
 
 #### 技術
 
-* ライブラリ
- * [Active Model Serializers](https://github.com/rails-api/active_model_serializers)
+* [Active Model Serializers](https://github.com/rails-api/active_model_serializers)
 
 #### 実績と取り組み
 
