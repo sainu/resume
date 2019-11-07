@@ -70,4 +70,4 @@ AMS（バージョン0.10）のコードを追ってみると、各DSLは名前�
 
 ## 受賞
 
-* [マイナビ主催 IoTハッカソン 総合2位&企業賞](https://www.facebook.com/sainou.katsutoshi/posts/1889658084601848?__xts__[0]=68.ARCDxIHnlLxUdr1qF_hfbxO6cxX2A3bX78p6ND4S08GpBII7lQEvh7vwQ0OQkM3Ug2vvooTT76Mrd9UMMuVvFTigIkdyFaifO1PR6Nk2PfkZN5lV1dFZ4fYml3nKSmiEwhsMa3bg7Wy9OzUBatv8lPCdFb3gMUOozJ2yLxAzbo_Yv97zgK_L-gqB9ylCidgbgtSHCtWMUc0mu0IL7jQeKylG50jFxhl7L-ZSlB0P5GSDTpwzVav_PFLSONL6U6id6QNa6g2f_Pr-TokpM-jm0toKXL_haDdZ-rFq8QCZvrkQBCkwVtdxFThU0qRUF35dTRu5grtU77iTxSvZwxNNqUusPg&__tn__=-R)
+* 2016/12/13: [マイナビ主催 IoTハッカソン 総合2位&企業賞](https://www.facebook.com/sainou.katsutoshi/posts/1889658084601848?__xts__[0]=68.ARCDxIHnlLxUdr1qF_hfbxO6cxX2A3bX78p6ND4S08GpBII7lQEvh7vwQ0OQkM3Ug2vvooTT76Mrd9UMMuVvFTigIkdyFaifO1PR6Nk2PfkZN5lV1dFZ4fYml3nKSmiEwhsMa3bg7Wy9OzUBatv8lPCdFb3gMUOozJ2yLxAzbo_Yv97zgK_L-gqB9ylCidgbgtSHCtWMUc0mu0IL7jQeKylG50jFxhl7L-ZSlB0P5GSDTpwzVav_PFLSONL6U6id6QNa6g2f_Pr-TokpM-jm0toKXL_haDdZ-rFq8QCZvrkQBCkwVtdxFThU0qRUF35dTRu5grtU77iTxSvZwxNNqUusPg&__tn__=-R)
