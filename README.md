@@ -29,7 +29,7 @@ Strong Points | 圧倒的な好奇心の強さと行動力
 Github | [@sainuio](https://github.com/sainuio)
 Twitter | [@sainuio](https://twitter.com/sainuio)
 Qiita | [@sainu](https://qiita.com/sainu)
-ブログ | [さいぬのtechブログ](http://sainu.hatenablGog.jp/)
+ブログ | [さいぬのtechブログ](https://sainu.hatenablog.jp/)
 
 # 職務経歴
 
