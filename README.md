@@ -26,10 +26,10 @@ Key | Value
 Name | 道祖克理, さいぬ
 Job | Webアプリケーションデベロッパー
 Strong Points | 圧倒的な好奇心の強さと行動力
-Github | [@sainuio](https://github.com/sainuio)
-Twitter | [@sainuio](https://twitter.com/sainuio)
+Github | [@sainu](https://github.com/sainu)
+Twitter | [@sainu](https://twitter.com/sainu)
 Qiita | [@sainu](https://qiita.com/sainu)
-ブログ | [さいぬのtechブログ](https://sainu.hatenablog.jp/)
+ブログ | [さいぬーん(´・ω・｀)](https://sainu.hatenablog.jp/)
 
 # 職務経歴
 
