@@ -325,6 +325,7 @@ Webカリキュラムを学習中の受講生がわからない箇所や演習�
 
 ## OSS
 
+* [Http Header Link](https://rubygems.org/gems/http_header_link)を作成
 * [Modify method name in comment #1471 - yabwe/medium-editor](https://github.com/yabwe/medium-editor/pull/1471)
 * [Update npm and grunt-autoprefixer #473 - orthes/medium-editor-insert-plugin](https://github.com/orthes/medium-editor-insert-plugin/pull/473)
 * [Modify for missing markdown symbol #1200 - lynndylanhurley/devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth/pull/1200)
