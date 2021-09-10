@@ -1,3 +1,3 @@
 # 職務経歴書
 
-https://sainu.me/resume へ移動しました
+https://www.sainu.me/ へ移動しました
